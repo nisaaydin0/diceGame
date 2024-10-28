@@ -5,7 +5,7 @@ Dice Game
 This is a simple dice game where two players, Player 1 and Player 2, roll a die to see who gets the higher number. The player with the higher roll wins the game.
 
 
-https://github.com/user-attachments/assets/f0667499-6cd6-4ba4-bca6-a48ca9f502b9
+![ScreenRecording2024-10-28at12 43 39PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/43587e2f-fe03-4e44-a4a5-5fae20d9a852)
 
 
 
